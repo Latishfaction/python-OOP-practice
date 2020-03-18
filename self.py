@@ -1,6 +1,4 @@
-import os
-os.system('cls')
-#######################################################################
+import clearterm
 
 
 class computer:
