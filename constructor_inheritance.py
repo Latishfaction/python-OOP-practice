@@ -1,5 +1,8 @@
 '''Whenever a class runs it calls the __init__ method, if a class doesn't have __init__ method so it calls the __init__ method of super-class'''
+
 '''Method Resolution Order(MRO): It generally happens in 'Multiple-Inheritance', When we encounter same method name(including __init__) in the both of the super class, then it execute from left-to-right '''
+
+'''super(): If want to call a super-class method from it's sub-class then we use super() method and it can be used in __init__ function and normal functions'''
 
 
 
