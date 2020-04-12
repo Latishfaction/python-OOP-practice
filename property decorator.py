@@ -36,7 +36,7 @@ class Emp:
 
 
 e = Emp("Jim", 'Corey')
-e.fullname = "Hello World"
+# e.fullname = "Hello World"
 
 print(e.first)
 print(e.fullname)

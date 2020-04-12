@@ -1,4 +1,5 @@
 '''Abstract Method: those methods who doesn't have any body '''
+
 '''Abstract Class: Where the "abstract method" is defined '''
 '''NOTE: We can not create object of abstract class but we can define abstract class in it's child class '''
 
