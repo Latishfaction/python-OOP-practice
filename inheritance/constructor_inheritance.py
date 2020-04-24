@@ -5,9 +5,6 @@
 '''super(): If want to call a super-class method from it's sub-class then we use super() method and it can be used in __init__ function and normal functions'''
 
 
-
-
-import clearterm
 class a:
     def __init__(self):
         print("Init A:")
@@ -39,6 +36,6 @@ class c(a, b):
         print('This is feature 6')
 
 
-cb = b()
+# cb = b()
 cc = c()
 cc.feature1()

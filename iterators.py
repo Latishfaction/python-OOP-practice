@@ -17,7 +17,6 @@ class def_range:
         else:
             raise StopIteration
 
-
 d1 = def_range()
 for i in d1:
     print(i)
